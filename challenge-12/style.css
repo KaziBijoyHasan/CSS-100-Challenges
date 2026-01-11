@@ -1,12 +1,7 @@
-.Image {
-  max-width: 100%;
-  height: auto;
-  display: block;
-}
-@media screen and(max-width 768px) {
-  .Image {
-    max-width: 100%;
-    height: auto;
-    display: block;
-  }
+button {
+  color: rgb(230, 221, 221);
+  background-color: rgb(231, 26, 26);
+  border-radius: 10px;
+  padding: 10px 20px;
+  border: none;
 }
