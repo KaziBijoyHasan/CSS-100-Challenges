@@ -1,0 +1,12 @@
+p {
+  border: 3px solid;
+  padding: 30px;
+  font-size: 3em;
+  background-color: aqua;
+  visibility: hidden;
+}
+.hidden {
+  padding: 20px;
+  background-color: blue;
+  border: 5px solid;
+}
