@@ -1,8 +1,5 @@
-/* div block element  */
 div {
-  background-color: red;
-}
-/* span inline element  */
-span {
-  background-color: green;
+  border: 3px solid red;
+  height: 45px;
+  overflow: auto;
 }
